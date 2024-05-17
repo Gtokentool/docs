@@ -1,0 +1,35 @@
+---
+description: https://www.ggg.dog
+---
+
+# 批量增加持币地址
+
+提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+
+### 第1步，连接钱包
+
+进入页面：[https://ggg.dog/increaseAddr](https://ggg.dog/increaseAddr?chainId=97)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+
+完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
+
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+### 第2步，输入信息
+
+假设我们增加20个持币地址，输入如下：
+
+* 代币地址：0x0b29b9959e315e68c007b2cc376ea16f3c850951
+* 单地址发放数量：100
+* 总发放多少地址：20
+
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+### 第3步，完成
+
+点击 “增加持币地址” 按钮，在小狐狸上支付gas费点击“确认”，就完成了
+
+（注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
+
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
