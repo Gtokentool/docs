@@ -4,6 +4,10 @@ description: https://www.ggg.dog
 
 # 创建符文
 
+创建符文视频教程
+
+{% embed url="https://youtu.be/LmbIoquW78c" %}
+
 ### 1、介绍
 
 符文是最新的协议，在铭文铸造的基础上，我们实现了向合约地址转账即可实时获得Token的协议，简化用户操作

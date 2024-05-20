@@ -53,7 +53,7 @@
 
 ## 辅助信息
 
-* [小狐狸插件安装教程](fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng.md)
+* [小狐狸钱包安装教程](fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng.md)
 * [主流币合约地址](fu-zhu-xin-xi/zhu-liu-bi-he-yue-di-zhi.md)
 * [公链配置参数](fu-zhu-xin-xi/gong-lian-pei-zhi-can-shu.md)
 * [测试币水龙头](fu-zhu-xin-xi/ce-shi-bi-shui-long-tou.md)
