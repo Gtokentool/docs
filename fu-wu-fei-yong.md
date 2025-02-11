@@ -1,5 +1,5 @@
 ---
-description: 远低于市场平均价，还能享受高质量服务（https://www.ggg.dog）
+description: 远低于市场平均价，还能享受高质量服务（https://www.gtokentool.com/）
 ---
 
 # 服务费用
