@@ -28,7 +28,7 @@
 
 #### 说明：
 
-* **IDO地址更换为自己域名，请查看“**[**替换域名**](jiao-cheng-ido-ti-huan-yu-ming.md)**”文档**
+* **IDO地址更换为自己域名，请查看“**[**替换域名**](https://docs.gtokentool.com/yu-ming-jie-xi-jiao-cheng)**”文档**
 * **查看IDO官网页面及功能设置演示视频请点击“**[**视频教程**](https://www.youtube.com/embed/5XFSer9zkbg)**”**
 
 #### 注意：
