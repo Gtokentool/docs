@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: G TOKEN官网：https://www.gtokentool.com
 ---
 
 # 创建质押挖矿
@@ -10,11 +10,11 @@ description: https://www.ggg.dog
 
 ### 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/mining](https://ggg.dog/mining)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)\
+进入创建页面：https://www.gtokentool.com/mining，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
