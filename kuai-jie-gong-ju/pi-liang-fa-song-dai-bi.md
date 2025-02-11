@@ -1,14 +1,14 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 批量发送代币
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 ### 第1步，连接钱包
 
-进入页面：[https://ggg.dog/sendertoken](https://ggg.dog/sendertoken)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入批量转账页面：https://gtokentool.com/sendertoken，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="https://lh7-us.googleusercontent.com/gf3ho8iEOWdZ6l5WkDlPZxbKNT_CFjiCJbDjXO6u4bwHU8EKdz-Rl9XOw_-t4q89mr_46jo79lDkh3rGpR_JXNRamJfdb76fUuf22kCvDskV23QTiDusrdv9zHNvhcfGEp-Dg_mIB2BpCWVjbi_v_7E" alt=""><figcaption></figcaption></figure>
 
@@ -41,5 +41,5 @@ description: https://www.ggg.dog
 <figure><img src="https://lh7-us.googleusercontent.com/1wCBsw9KQeTYUbULZfNh42zn2JAAIwC8Xf2GCYptwCt09DJGlV4HN1hmK4L7tEZNtV1mJOrPnMPv-mR-yFGnwMpccya7cfCc_xedSinm723gwLtSoEZ47xBB3jb8JkIXFnvYzYz94Fe-hdvkU6vaaXI" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh7-us.googleusercontent.com/7wFVCGer8aMcSieCQqD2_HYwmviyYPw9EZHq8pEdUdJdJ1Xw42oh65VZzGCPd-kx3rcsbzolLiAAw_WBa-DITJlMwNQh-pnQVHFyzG5Q5MRKOu1TYIX2wibuFb6d0PyAJc8eZlW9atq1-b9rW2CMylE" alt=""><figcaption></figcaption></figure>
-
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
 \
