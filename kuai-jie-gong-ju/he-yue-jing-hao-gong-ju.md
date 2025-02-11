@@ -1,14 +1,14 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 合约靓号工具
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：ttps://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 ### 第1步，连接钱包
 
-进入页面：[https://ggg.dog/tool](https://ggg.dog/tool?chainId=97)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入页面：https://gtokentool.com/tool，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,3 +39,4 @@ description: https://www.ggg.dog
 <figure><img src="../.gitbook/assets/image (28).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
