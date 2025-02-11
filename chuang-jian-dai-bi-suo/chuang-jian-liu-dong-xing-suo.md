@@ -1,14 +1,13 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 创建流动性锁
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
-
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 ### 第1步，连接钱包
 
-进入页面：[https://ggg.dog/createlock](https://ggg.dog/createlock)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入页面：https://www.gtokentool.com/createlock，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="https://lh7-us.googleusercontent.com/y55Yo51W6alGW5plbnFNFnZwGfH_VEdpg5c6lE9GWnr-yj82l5jo81Ca23mHlznROmBMZ0nzzHXO_ddd-YX9dl-67xK58lBLg2BA_MYPDtoTeYsDHNHtqg6mBWOKETjK46Ckm81elvU-Z7U_KIu_RoA" alt=""><figcaption></figcaption></figure>
 
@@ -46,5 +45,5 @@ description: https://www.ggg.dog
 
 
 现在您可以在 “流动性锁>我的锁”中 查看和管理了
-
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
 \
