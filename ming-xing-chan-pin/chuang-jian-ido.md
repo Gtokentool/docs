@@ -10,11 +10,11 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
 
 ### 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/idov2](https://ggg.dog/idov2)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入创建页面：https://www.gtokentool.com/idov2，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
