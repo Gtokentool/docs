@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: G TOKEN官网：https://www.gtokentool.com
 ---
 
 # 创建符文
@@ -14,11 +14,11 @@ description: https://www.ggg.dog
 
 ### 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/createInscription](https://ggg.dog/createInscription)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)\
+进入创建页面：https://www.gtokentool.com/createInscription，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
@@ -47,3 +47,4 @@ description: https://www.ggg.dog
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
 <figure><img src="https://lh7-us.googleusercontent.com/SiwI7-oW6L08cPzf4OAJN5swmoPb3nXsAS_pLrEyPyjV7P4UdK7PouhSDPS7T9aEf7c8hfFGo7ZsdP5sju-paLYFe96_ZK7ZOMURx0E6ph1Cefp9z1zKITw7vGm6zBJEeELG-g_3jXNT6i_KAup5aEE" alt=""><figcaption></figcaption></figure>
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
