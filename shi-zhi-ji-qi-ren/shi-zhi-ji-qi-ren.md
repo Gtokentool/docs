@@ -1,6 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 市值机器人
-
