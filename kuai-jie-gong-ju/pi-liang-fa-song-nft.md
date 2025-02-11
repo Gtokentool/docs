@@ -1,14 +1,13 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 批量发送NFT
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
-
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 ### 第1步，连接钱包
 
-进入页面：[https://ggg.dog/sendernft ](https://ggg.dog/sendernft)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入页面：https://gtokentool.com/sendernft ，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="https://lh7-us.googleusercontent.com/b_JbputLisbZ0oC5bgT6d9r9olWTPI5qmLianBrp7Vceta1Ymq8zhKPiWzkCCUtsnRQeXCy2IsT_Tpa0kzCK2psprkVtBV7dA6buL-tQgRiJ6k3tABaBAPDQNcN3CBQ78MN_vWGY10M9u7JWT9Ks2X0" alt=""><figcaption></figcaption></figure>
 
@@ -38,4 +37,4 @@ description: https://www.ggg.dog
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-\
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
