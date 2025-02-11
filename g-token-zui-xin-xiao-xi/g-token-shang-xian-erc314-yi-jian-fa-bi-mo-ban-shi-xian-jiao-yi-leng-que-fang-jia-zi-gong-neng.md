@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # G TOKEN上线 ERC314 一键发币模板：实现交易冷却防夹子功能
@@ -14,7 +14,7 @@ X314项目的大火，让 ERC314协议成为开发者和投资者们关注的焦
 
 <figure><img src="https://lh7-us.googleusercontent.com/Lka17xmhzsV0j6dmMgRHpI-k-Qdya7UQ15yGhXvMTHrHXw9r0dCuRlllhZD_rfECPUEF-ojauwXl_4zeFp1tyOU_hGCbHYwk_X6k_4OaQWxroltyZugSYtu1dDRdXdr-ZIRgRNlIqCXi6Q2peYhelBg" alt="" width="563"><figcaption></figcaption></figure>
 
-进入页面：[https://token.ggg.dog](https://token.ggg.dog) ，先选择代币模式为 “ERC314”,然后输入代币信息，填写如下：
+进入页面：[https://www.gtokentool.com/](https://www.gtokentool.com/) ，先选择代币模式为 “ERC314”,然后输入代币信息，填写如下：
 
 * 代币全称：G-TOKEN
 * 代币简称：G-T
