@@ -1,12 +1,12 @@
 ---
-description: https://www.ggg.dog
+description:https://www.gtokentool.com/
 ---
 
 # 批量上传图片
 
 ### 第1步，进入页面
 
-进入页面：[https://ggg.dog/tool](https://ggg.dog/tool?chainId=97)，点击 “批量上传图片” 切换页面
+进入页面：https://gtokentool.com/tool ，点击 “批量上传图片” 切换页面
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
