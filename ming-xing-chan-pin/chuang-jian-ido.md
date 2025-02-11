@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: [https://www.ggg.dog](https://www.gtokentool.com/)
 ---
 
 # 创建IDO
