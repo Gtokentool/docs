@@ -12,12 +12,8 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿（h
 
 ## 2、操作步骤
 提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
-
 #### (1) 连接钱包
-
-(1) 连接钱包
 进入创建页面：https://www.gtokentool.com/tokenfactory，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
-
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,6 +40,6 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿（h
 
 注意：
 
-代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://help.ggg.dog/qu-zhong-xin-hua-jiao-yi](https://help.ggg.dog/qu-zhong-xin-hua-jiao-yi/liu-dong-xing)
+代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/liu-dong-xing
 
 ####
