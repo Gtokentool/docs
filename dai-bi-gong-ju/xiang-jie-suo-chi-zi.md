@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (39).png>)
 
-1.打开网址：[https://869.one/tool](https://869.one/tool)
+1.打开网址：[https://www.gtokentool.com/createlock)
 
 2.连接钱包
 
