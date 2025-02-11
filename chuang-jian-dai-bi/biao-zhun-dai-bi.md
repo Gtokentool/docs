@@ -1,5 +1,5 @@
 ---
-description: 干净合约、方便上手、无税无功能、Ave检测全绿（https://www.ggg.dog）
+description: 干净合约、方便上手、无税无功能、Ave检测全绿（https://www.gtokentool.com/）
 ---
 
 # 标准代币
@@ -11,17 +11,14 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿（h
 标准代币指的是没有任何功能、机制的代币合约，是一个纯粹的、干净的、标准的合约。
 
 ## 2、操作步骤
-
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/tokenfactory](https://ggg.dog/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
-
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+(1) 连接钱包
+进入创建页面：https://www.gtokentool.com/tokenfactory，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
-
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### (2) 填写您的代币信息
