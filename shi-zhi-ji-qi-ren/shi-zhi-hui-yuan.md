@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: https://gtokentool.com
 ---
 
 # 市值会员
@@ -10,12 +10,11 @@ description: https://www.ggg.dog
 
 ### 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://www.ggg.dog/bot](https://www.ggg.dog/bot)，点击右上角，切换到主网（这里以BSC测试网为例)，并连接小狐狸钱包
-
+进入创建页面：https://www.gtokentool.com/bot，点击右上角，切换到主网（这里以BSC测试网为例)，并连接小狐狸钱包
 <figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
@@ -41,3 +40,4 @@ description: https://www.ggg.dog
 在箭头所指的位置，会显示会员剩余时间
 
 <figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
