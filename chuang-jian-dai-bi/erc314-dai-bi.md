@@ -1,5 +1,5 @@
 ---
-description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防夹子（https://www.ggg.dog）
+description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防夹子（G TOKEN官网：https://www.gtokentool.com）
 ---
 
 # ERC314代币
@@ -19,11 +19,11 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 
 ## 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://token.ggg.dog/#/](https://token.ggg.dog/#/)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入创建页面：https://token.gtokentool.com/#/，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 注：公链默认为钱包所在的公链
 
@@ -64,36 +64,26 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 
 * 能转账不能交易
 
-代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://pancakeswap.finance/](https://pancakeswap.finance/?chain=bscTestnet)待修改\
+代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/liu-dong-xing
 
+营销钱包分红什么币？
 
-* 营销钱包分红什么币？
+营销钱包，持币分红，分该链的gas币（币安链则分BNB）
 
-营销钱包，持币分红，分该链的gas币（币安链则分BNB）\
+权限丢弃后，营销钱包功能还在吗？
 
+假设营销钱包和权限钱包是同一个，在你丢弃了权限之后，并不影响营销钱包功能的使用，同样可以加池子、撤池子、控制流动性
 
-* 权限丢弃后，营销钱包功能还在吗？
+怎么计算初始代币价格？
 
-假设营销钱包和权限钱包是同一个，在你丢弃了权限之后，并不影响营销钱包功能的使用，同样可以加池子、撤池子、控制流动性\
+初始价格 = “流动性代币余额”：“首次打BNB的数量”
 
+314协议可以用USDT或者wBNB交易或配对吗？
 
-* 怎么计算初始代币价格？
+不支持，314协议交易只能通过BNB进行
 
-初始价格 = “流动性代币余额”：“首次打BNB的数量”\
-
-
-* 314协议可以用USDT或者wBNB交易或配对吗？
-
-不支持，314协议交易只能通过BNB进行\
-
-
-* 为什么Ave不显示K线？
+为什么Ave不显示K线？
 
 由于ave有延迟，加池子之后，需要交易数笔，才能显示K线
 
-
-
-如有不明白的地方，请加入官方电报群：[@G-TOKEN](https://t.me/maleduck666)
-
-\
-\
+如有不明白的地方，请加入官方电报群：@https://t.me/gtokentool
