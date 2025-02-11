@@ -28,7 +28,7 @@
 
 #### 4.将ido地址中的ido.ggg.dog替换为你的域名&#x20;
 
-#### 也可联系我们帮忙购买域名以及解析，http域名为15U一年，https域名为50U一年，若有需求联系[https://t.me/xxxuxubaobao](https://t.me/xxxuxubaobao)
+#### 也可联系我们帮忙购买域名以及解析，http域名为15U一年，https域名为50U一年，若有需求联系[https://t.me/xuxugege](https://t.me/xuxugege)
 
 
 
