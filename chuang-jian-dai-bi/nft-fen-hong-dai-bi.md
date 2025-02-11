@@ -1,14 +1,14 @@
 ---
-description: 持有指定NFT可享受分红 （https://www.ggg.dog）
+description: 持有指定NFT可享受分红 （G TOKEN官网：https://www.gtokentool.com）
 ---
 
 # NFT分红代币
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 ### 第1步，连接钱包
 
-进入创建页面：[https://ggg.dog/tokenfactory](https://ggg.dog/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入创建页面：https://www.gtokentool.com/tokenfactory，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,8 +50,10 @@ description: 持有指定NFT可享受分红 （https://www.ggg.dog）
 
 注意：
 
-* 代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://help.ggg.dog/qu-zhong-xin-hua-jiao-yi](https://help.ggg.dog/qu-zhong-xin-hua-jiao-yi/liu-dong-xing)
-* 暂不支持其他平台创建的NFT
+代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/liu-dong-xing
 
+暂不支持其他平台创建的NFT
+
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
 
 
