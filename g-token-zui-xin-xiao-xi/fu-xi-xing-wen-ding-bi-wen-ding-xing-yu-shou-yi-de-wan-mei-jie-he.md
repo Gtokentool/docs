@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 付息型稳定币：稳定性与收益的完美结合
