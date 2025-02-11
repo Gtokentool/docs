@@ -11,5 +11,5 @@ description: [https://www.gtokentool.com/]
 * 官网:[ https://www.gtokentool.com/](https://www.gtokentool.com/)
 * Twitter:[ https://x.com/GTokenTool](https://x.com/GTokenTool)
 * Youtuble：[https://www.youtube.com/@GtokenFactory](https://twitter.com/GGGTokenFactory)
-* Github合约库：[https://github.com/yagong321](https://www.youtube.com/@GtokenFactory)
+
 
