@@ -6,7 +6,7 @@ description: >-
 
 # G TOKENTOOL一键发币
 
-作为领先的Web3.0工具平台，[G TOKENTPPL](https://www.gtokentool.com/)是一个基于区块链技术的在线工具箱，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。G TOKEN提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。
+作为领先的Web3.0工具平台，[G TOKENTOOL](https://www.gtokentool.com/)是一个基于区块链技术的在线工具箱，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。G TOKEN提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。
 
 ### 主要功能
 
