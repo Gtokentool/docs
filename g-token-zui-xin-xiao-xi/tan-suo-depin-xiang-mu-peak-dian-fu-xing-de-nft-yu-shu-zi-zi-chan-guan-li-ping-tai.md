@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 探索DePIN项目Peak：颠覆性的NFT与数字资产管理平台
