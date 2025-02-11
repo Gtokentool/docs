@@ -1,15 +1,14 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 兑换
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 ### 第1步，连接钱包
 
-进入页面：[https://ggg.dog/swap](https://ggg.dog/swap)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
-
+进入页面：https://www.gtokentool.com//swap，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 <figure><img src="https://lh7-us.googleusercontent.com/5AaJ0qmVyZTjD1vhiCrSqP_XSiX3RjtTVe7l7k4Fi9LXcE475Q96F5LkHot2QXCaHw3PMFCh37s3Lht50h14Mw1F5GgVVFiPw50NSxRcdRP8EQTSH71nEDpVq1TLb7CV8FoCBYJv4NLbSkCs54enGC8" alt=""><figcaption></figcaption></figure>
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
@@ -30,4 +29,5 @@ description: https://www.ggg.dog
 
 <figure><img src="https://lh7-us.googleusercontent.com/wEy8d5XN1KJr8hlJjApte1SmFMN9h5y6ZeB8H6xQm1Vdp0ru_jI9NDgWAHUGLU0N0ot8if81E1i2cLO95n63xMl_yX_Rxof9-F35ePoTZS7fYWA_itGnQ6Xh3LNcLxFe5Oz9KY5GSgqojWZAHPsSayw" alt="" width="563"><figcaption></figcaption></figure>
 
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
 \
