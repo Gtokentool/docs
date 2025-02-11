@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: https://www.gtokentool.com/
 ---
 
 # 2024 年最值得购买的 5 种 RWA 加密货币
