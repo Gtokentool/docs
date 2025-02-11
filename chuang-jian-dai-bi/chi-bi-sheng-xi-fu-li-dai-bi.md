@@ -1,5 +1,5 @@
 ---
-description: 持币自动生息、代币资产累积、打造去中心化银行（https://www.ggg.dog）
+description: 持币自动生息、代币资产累积、打造去中心化银行（G TOKEN官网：https://www.gtokentool.com）
 ---
 
 # 持币生息（复利）代币
@@ -10,11 +10,11 @@ description: 持币自动生息、代币资产累积、打造去中心化银行�
 
 ## 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/tokenfactory](https://ggg.dog/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入创建页面：https://www.gtokentool.com/tokenfactory，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,6 +67,7 @@ description: 持币自动生息、代币资产累积、打造去中心化银行�
 #### 复利如何实现？复利的代币从哪里来？
 
 增发而来，代币复利以增发的形式实现
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
 
 
 
