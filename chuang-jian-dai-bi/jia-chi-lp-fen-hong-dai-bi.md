@@ -1,5 +1,5 @@
 ---
-description: 加池参与分红、池子越来越厚，币价螺旋上涨（https://www.ggg.dog）
+description: 加加池参与分红、池子越来越厚，币价螺旋上涨（G TOKENTOOL官网：https://www.gtokentool.com）
 ---
 
 # 加池（LP分红代币）
@@ -10,11 +10,11 @@ description: 加池参与分红、池子越来越厚，币价螺旋上涨（http
 
 ## 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://docs.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/tokenfactory](https://ggg.dog/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入创建页面：https://www.gtokentool.com/tokenfactory，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,16 @@ description: 加池参与分红、池子越来越厚，币价螺旋上涨（http
 
 注意：
 
-代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://help.ggg.dog/qu-zhong-xin-hua-jiao-yi](https://help.ggg.dog/qu-zhong-xin-hua-jiao-yi/liu-dong-xing)
+1.LP分红代币发成功之后可以在控制台设置加，撤池子手续费（注意：加池子手续费最好跟卖税一样，不然用户可以通过机器人将卖税设置成与加池子手续费一样，比如卖税100，加池子手续费0，用户可以通过机器人将卖税变成0卖出代币）
 
+2.尾号前缀需要设置成e(小写，不要填0X,就写e)
 
+3.撤池子手续费默认进合约地址后按设置的买卖手续费进行分红，有需要设置指定地址的可在控制台中-》移除LP接收地址处，输入你想接收的地址，比如填黑洞，那么移除LP的税就会进黑洞地址
 
+4.如果需要设置不能设置撤池子，那移除LP的税就需要调整到100以上
+
+5.对主币池子无效（比如BNB）
+
+代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/liu-dong-xing
+
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
