@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: G TOKEN官网：https://www.gtokentool.com
 ---
 
 # 开源
