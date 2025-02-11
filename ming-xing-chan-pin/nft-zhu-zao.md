@@ -1,5 +1,5 @@
 ---
-description: https://www.ggg.dog
+description: G TOKEN官网：https://www.gtokentool.com
 ---
 
 # NFT铸造
@@ -10,11 +10,11 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 
 ### 2、操作步骤
 
-提示：请先安装小狐狸钱包插件，教程：[https://help.ggg.dog/fu-zhu-xin-xi](https://help.ggg.dog/fu-zhu-xin-xi/xiao-hu-li-cha-jian-an-zhuang-jiao-cheng)
+提示：请先安装小狐狸钱包插件，教程：https://www.gtokentool.com/fu-zhu-xin-xi/xiao-hu-li-qian-bao-an-zhuang-jiao-cheng
 
 #### (1) 连接钱包
 
-进入创建页面：[https://ggg.dog/tokencreatenft](https://ggg.dog/tokencreatenft)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
+进入创建页面：https://www.gtokentool.com/tokencreatenft，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,3 +44,4 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 （注意：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+如有不明白或者不清楚的地方，请加入官方电报群：https://t.me/gtokentool
